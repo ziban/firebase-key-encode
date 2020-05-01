@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chrisvxd/firebase-key-encode.git"
+    "url": "git+https://github.com/ziban/firebase-key-encode.git"
   },
   "keywords": [
     "firebase"
@@ -16,9 +16,9 @@
   "author": "Chris Villa (github @chrisvxd)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chrisvxd/firebase-key-encode/issues"
+    "url": "https://github.com/ziban/firebase-key-encode/issues"
   },
-  "homepage": "https://github.com/chrisvxd/firebase-key-encode#readme",
+  "homepage": "https://github.com/ziban/firebase-key-encode/#readme",
   "devDependencies": {
     "jest": "^25.5.3"
   }
